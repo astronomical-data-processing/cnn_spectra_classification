@@ -75,3 +75,13 @@ def G_spectra(paths, numbers, flux, scls, star_type, high_T, low_T):
         scls.append(star_type)
     return flux, scls
 
+if __name__ == "__main__":
+    '''
+    paths:Original data to be generated.
+    numbers:Total number of generated spectra.
+    star_type:Classes of generated spectra.
+    low_T,high_T:Temperature range for generated spectra.
+    '''
+    flux = []
+    scls = []
+    flux, scls = G_spectra(paths, numbers, flux, scls, star_type, low_T, high_T)
