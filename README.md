@@ -1,4 +1,4 @@
-## Hot Subdwarfs Identiﬁcation Based on Deep Learning
+## CNN Spectra Classification
 ## A hybrid recognition model including an 8-class classiﬁcation model and a binary classiﬁcation model for LAMOST spectra classification and hot subdwarfs identiﬁcation.
 
 Hot subdwarf star is a particular type of star that is crucial to studying binary evolution and atmospheric diﬀusion processes. In recent years, identifying Hot subdwarfs by machine learning methods has become a hot topic, but there are still limitations in automation and accuracy. 
